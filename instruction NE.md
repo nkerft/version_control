@@ -55,3 +55,12 @@ align  | align  | align
 ### Это апельсин
 
 ![orange](orange.png)
+
+
+# Instruction "How to work with GitHub"
+
+
+ 1. Create a local repository on a PC/MAC
+ 2. Create/Fork repo from GitHub on Web
+ 3. Clone a repo from GitHub in your local repo on PC/MAC
+ 4. 
